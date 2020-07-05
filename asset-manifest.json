@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/framework7-react-js/static/js/main.c9c15e8a.chunk.js",
+    "main.js.map": "/framework7-react-js/static/js/main.c9c15e8a.chunk.js.map",
+    "runtime-main.js": "/framework7-react-js/static/js/runtime-main.f04a1bf7.js",
+    "runtime-main.js.map": "/framework7-react-js/static/js/runtime-main.f04a1bf7.js.map",
+    "static/css/2.e90d5785.chunk.css": "/framework7-react-js/static/css/2.e90d5785.chunk.css",
+    "static/js/2.919ad4b6.chunk.js": "/framework7-react-js/static/js/2.919ad4b6.chunk.js",
+    "static/js/2.919ad4b6.chunk.js.map": "/framework7-react-js/static/js/2.919ad4b6.chunk.js.map",
+    "index.html": "/framework7-react-js/index.html",
+    "precache-manifest.eacd312b96e5d0d61c503518efdc14cf.js": "/framework7-react-js/precache-manifest.eacd312b96e5d0d61c503518efdc14cf.js",
+    "service-worker.js": "/framework7-react-js/service-worker.js",
+    "static/css/2.e90d5785.chunk.css.map": "/framework7-react-js/static/css/2.e90d5785.chunk.css.map",
+    "static/js/2.919ad4b6.chunk.js.LICENSE.txt": "/framework7-react-js/static/js/2.919ad4b6.chunk.js.LICENSE.txt",
+    "static/media/framework7-icons.css": "/framework7-react-js/static/media/Framework7Icons-Regular.f30e0292.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f04a1bf7.js",
+    "static/css/2.e90d5785.chunk.css",
+    "static/js/2.919ad4b6.chunk.js",
+    "static/js/main.c9c15e8a.chunk.js"
+  ]
+}
